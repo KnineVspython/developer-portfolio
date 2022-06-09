@@ -3,9 +3,9 @@
     'Javascript',
     'CSS',
     'React',
-    'Django',
-    'MongoDB',
-    'MySQL',
+    'Next JS',
+    'Selenium',
+    'Photoshop',
     'Python'
 ]
 

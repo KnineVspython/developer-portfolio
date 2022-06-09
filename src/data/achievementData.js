@@ -1,37 +1,37 @@
 export const achievementData = {
-    bio : "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn. - Alvin Toffler",
+    bio : "Ik ogs have been waiting for some time but we gonna take care of them. they should have a lot of beast coin saved up for the sol mint. we could be genorous enough that they are able to mint enough to be whales for the solana drop and flip profits with out hurting their investmentsbut  one idea i did have were upgrades to meta data at some point airdropped to holders. ogs get a 3X multiplier for their BC earnings Alpha holders get 1.5X multiplier (because a lot are not legit and fuded) Beta .5X multiplier. these can be worked out and calculated based on LP (if we have one). If not then thats even better because the value is based on the scarcity and utility of the token",
     achievements : [
         {
             id : 1,
-            title : '2021 Complete Python Bootcamp From Zero to Hero in Python',
-            details : 'A python course from Udemy',
-            date : 'Jan 28, 2021',
+            title : 'Phase 1: Succesful Sell Out',
+            details : 'so we can setup holders chat and be added to Secondary Marketplaces ',
+            date : 'June 20, 2022',
             field : 'Coding',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-0cd075aa-f55b-4d9f-aec0-119020a4e792.jpg?v=1611846350000'
+            image : 'https://i.imgur.com/gmSGiPs.png'
         },
         {
             id : 2,
-            title : 'The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert',
-            details : 'A MySQL course from Udemy',
-            date : 'May 25, 2021',
-            field : 'Database',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-91ae3ea2-39ee-4a57-bf23-d397aff0d9a7.jpg?v=1621951317000'
+            title : 'Phase 2: Alpha Hunt Beings',
+            details : 'We add in some great Aplha hunter to join the team and make everyone some more coins lol',
+            date : 'June 21, 2022',
+            field : 'Discord connection',
+            image : 'https://i.imgur.com/ew8tFXw.png'
         },
         {
             id : 3,
-            title : 'Machine Learning A-Z: Hands-On Python & R in Data Science',
-            details : 'Data Science Course from Udemy',
-            date : 'Apr 13, 2021',
-            field : 'Machine Learning',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-d9a7ba99-8635-47e6-96fc-7dd26a3dcbf1.jpg?v=1618297236000'
+            title : 'Phase 3: The Beast Coin ',
+            details : 'Owning an asset from the beast collection is more than enjoying the unique art, its about being a part of our community. ',
+            date : 'Jul 12, 2022',
+            field : 'BEP-20',
+            image : 'https://lh3.googleusercontent.com/yOiArwS2_qAJlwSt6HxYVvFptMBqfk5IDh_oECT9Dj30AAkoG7rhMxP9g8UJa3us3bsR8NMEnoE0PC2JoQFuqyAw_-4n6GoDEnpO1w=s0'
         },
         {
-            id : 3,
-            title : 'R Programming A-Z: R For Data Science With Real Exercises!',
-            details : 'R Programming Language Course from Udemy',
-            date : 'Feb 28, 2021',
-            field : 'Data Science',
-            image : 'https://udemy-certificate.s3.amazonaws.com/image/UC-8f5ff8e8-b6a4-4efd-a3fc-7fb63b29e77f.jpg?v=1614489452000'
+            id : 4,
+            title : 'Phase 4: NFT Community Vote!',
+            details : 'Programming Dao Vote: For The OG holder to pick projects to sweep!',
+            date : 'Jul 25, 2022',
+            field : 'Vote base',
+            image : 'https://cdn.decrypt.co/wp-content/uploads/2021/06/image0-1-gID_6.png'
         }
 
     ]

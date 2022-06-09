@@ -1,23 +1,23 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Ramjas College, Delhi University',
-        course: 'B.A. Honours History',
-        startYear: '2015',
-        endYear: '2018'
+        institution: 'Alpha by Sol Army',
+        course: 'We will be adding Sol Army to the team for solana alpha hunting',
+        startYear: '2022',
+        endYear: ''
     },
     {
         id: 2,
-        institution: 'Delhi University',
-        course: 'M.A. History',
-        startYear: '2019',
-        endYear: '2021'
+        institution: 'Ethereum Alpha ',
+        course: 'Will be looking for free mints on Etheruem for right now and also give a few collab with are friends on eth networks',
+        startYear: '2022',
+        endYear: ''
     },
     {
         id: 3,
-        institution: 'Masai School of Coding',
-        course: 'Fullstack Web-Development',
-        startYear: '2021',
+        institution: 'Polygon Alpha',
+        course: 'Polygen we are looking for good Polygon alpha hunters',
+        startYear: '2022',
         endYear: 'Present'
     },
 ]
