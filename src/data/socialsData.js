@@ -1,14 +1,15 @@
 export const socialsData = {
     github: 'https://discord.gg/UXzxESM4',
     facebook: '',
-    linkedIn: 'https://twitter.com/BEASTSNFT',
+    linkedIn: '',
     instagram: '',
     codepen: '',
-    twitter: '',
+    twitter: 'https://twitter.com/BEASTSNFT',
     reddit: '',
     blogger: '',
     medium: 'https://www.thebeastofficialv2.com/',
     stackOverflow: '',
     gitlab: '',
-    youtube: ''
+    youtube: '',
+    discord: 'https://discord.gg/UGsVA6Tr'
 }
